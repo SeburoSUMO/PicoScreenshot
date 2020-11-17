@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=PicoScreenshot
-Comment=Take screenshot from Pico Neo 2
-Exec=/opt/PicoScreenshot/PicoScreenshot.sh
-Icon=/opt/PicoScreenshot/Icon.png
-Terminal=false
-Type=Application
-Categories=Development
